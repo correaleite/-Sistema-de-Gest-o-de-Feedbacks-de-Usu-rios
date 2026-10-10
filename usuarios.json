@@ -54,5 +54,12 @@
         "idade": 22,
         "profissao": "na",
         "tipo": "a"
+    },
+    {
+        "id": 9,
+        "nome": "Kidinho",
+        "idade": 15,
+        "profissao": "seila",
+        "tipo": "xb"
     }
 ]
